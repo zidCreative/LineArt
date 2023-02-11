@@ -1,5 +1,9 @@
 import streamlit as st
-from skimage import io, color, filters, exposure, img_as_float
+from skimage import io
+from skimage import color
+from skimage import filters
+from skimage import exposure
+from skimage import img_as_float
 
 st.title("Program Deteksi Garis Tepi")
 st.sidebar.image("zidCreative_putih.png")
