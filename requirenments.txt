@@ -1,7 +1,2 @@
 streamlit
-scikit_image
-io
-color
-filters
-exposure
-img_as_float
+scikit-image==0.19.3
