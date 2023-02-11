@@ -1,3 +1,2 @@
 streamlit
-scikit_image
-skimage
+scikit-image
