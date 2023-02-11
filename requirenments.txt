@@ -1,2 +1,5 @@
 streamlit
 scikit-image
+scikit-learn
+pillow
+cv2
