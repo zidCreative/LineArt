@@ -1,4 +1,5 @@
 import streamlit as st
+import skimage
 from skimage import io, color, filters, exposure, img_as_float
 
 st.title("Program Deteksi Garis Tepi")
