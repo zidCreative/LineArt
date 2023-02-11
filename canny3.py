@@ -2,7 +2,7 @@ import streamlit as st
 from skimage import io, color, filters, exposure, img_as_float
 
 st.title("Program Deteksi Garis Tepi")
-st.sidebar.image("Resources\zidCreative_putih.png")
+st.sidebar.image("zidCreative_putih.png")
 gamb = st.file_uploader("Upload gambar yang ingin anda konversi", type=['jpg' , 'jpeg', 'png' ])	
 
 if gamb is not None :
