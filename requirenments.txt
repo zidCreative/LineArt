@@ -1,2 +1,2 @@
 streamlit
-scikit-image==0.19.3
+python-skimage
